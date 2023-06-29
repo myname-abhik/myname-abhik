@@ -17,6 +17,5 @@
 
 🌐 You can also find me on:
 - [LinkedIn](https://www.linkedin.com/in/abhik-chakrabortty-7652671b0/)
-- [Personal website/blog](insert website/blog URL)
 
 ✨ Let's innovate, create, and make a positive impact together! ✨

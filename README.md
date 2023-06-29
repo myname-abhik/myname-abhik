@@ -2,7 +2,7 @@
 
 👋 Hello there! Welcome to my GitHub profile! 👨‍💻
 
-🔭 I'm a passionate software developer with a knack for building innovative and efficient solutions. I thrive on tackling complex problems and transforming ideas into reality through code.
+🔭 I'm a passionate Web developer with a knack for building innovative and efficient solutions. I thrive on tackling complex problems and transforming ideas into reality through code.
 
 🌱 In my free time, I'm constantly learning and honing my skills. I love to stay updated with the latest industry trends and explore emerging technologies. I'm an advocate for open-source software and believe in the power of collaboration and knowledge-sharing.
 

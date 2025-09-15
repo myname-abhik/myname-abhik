@@ -19,6 +19,12 @@
 - **[AmiWatch](https://amiwatch.netlify.app/)** – *Video Streaming Platform*  
   Built with React, Express, ffmpeg & video.js. Includes OTP authentication and smooth video streaming.  
 
+- **[Medisync](https://medisync-wkrn.vercel.app/)** – *AI-Powered Medico Assistant*  
+  A healthcare-focused AI web app built to assist patients with medical queries and provide smart recommendations.  
+
+- **[Autonomous Maintenance System](https://github.com/myname-abhik/Autonomous-Maintenance-System_1)** – *Predictive Maintenance & Monitoring*  
+  System designed to monitor and predict equipment maintenance needs, reducing downtime and improving efficiency.  
+
 - **Wave Monitoring** – *AI-Based Acoustic Wave Monitoring System*  
   Designed for early detection of rail defects. Developed backend APIs (Express.js) and frontend components (React).  
 
@@ -38,6 +44,7 @@
 - Advanced **React.js** & **Express.js**  
 - Scalable **backend systems**  
 - **PHP (Laravel & Laragon)** for efficient full-stack development  
+- AI-powered solutions for healthcare and real-world applications  
 - Open-source contributions in web technologies  
 
 ---
